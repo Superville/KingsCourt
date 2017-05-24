@@ -1,0 +1,5 @@
+"","DeckID","CardID","CardName","CardText","LeftID","LeftText","L_Pri1","L_Pri2","L_Pri3","L_Pri4","RightID","RightText","R_Pri1","R_Pri2","R_Pri3","R_Pri4"
+"Card1","GenDeck0","C_Gen_01","Card1","This is a Test Card","C_Gen_03","Go Left","0","1","2","3","C_Gen_02","Go Right","0","-1","-2","-3"
+"Card2","GenDeck0","C_Gen_02","Card2","This is test #2","TopDeck","Go to Top","4","5","6","7","C_Gen_03","Go Right Again","-4","-5","-6","-7"
+"Card3","GenDeck0","C_Gen_03","Card3","This is NOT a test","C_Gen_01","Go Left Again","8","9","10","11","C_Gen_04","Go to 4","-8","-9","-10","-11"
+"Card4","GenDeck0","C_Gen_04","Card4","This is card 4","TopDeck","Go to Top","1","1","1","1","TopDeck","Also Go to Top","1","1","1","1"

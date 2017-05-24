@@ -1,0 +1,129 @@
+Category,Text,O1Text,O1Plebs,O1Clergy,O1Generals,O1Banks,O1Gold,O1Special,O2Text,O2Plebs,O2Clergy,O2Generals,O2Banks,O2Gold,O2Special
+Type: Event,Bishop: Local miners have unearthed the Holy Hand Grenade...,"Count to three, no more, no less... then lobbeth the Holy Hand Grenade!",3,-2,,,,,A gift to the Church!,,3,-2,,,
+Type: Event,Treasurer: The Banks want the King to finance his huge birthday party!,"You deserve a grand celebration, my King!",2,,,2,,,"Oh, how wasteful, my King.",,,,-3,,
+Type: Event,King's Mistress: I have made friends with the Generals' wives and told them of your greatness.,Oh goodie!,,,2,,,,,,,,,,
+Type: Persistent,King's Mistress: The commoners have spotted us together and our relationship has captured the heart of the people.,Place this card on the table in in front of you.,1,,,,,"For 6 turns, you gain the effect of this card BEFORE your Event Phase.",,,,,,,
+Type: Event,King's Mistress: I shall inform His Majesty of your noble deeds.,No!!!!,,,,,-5,,I have nothing to hide!,,,,,,You are immediately accused by the King.
+Type: Event,"King's Mistress: I think everyone should know of our affair, don't you?",No!,,,,,-2,,Who cares!,5,-3,,,,
+Type: Event,"King: You are in charge of the New Year festivities, got it?",Lets do it up!,3,,,-2,,,Skimp,1,1,,1,,
+Type: Event,"General Lee: King, we must war with the southern kingdom before they grow too strong for us to withstand!",To arms!,-1,,2,,,,How about ... no.,,,-1,2,,
+Type: Event,Treasurer: You can't blackmail the royal Treasurer!,"Pay up, sir!",,,,,2,,,,,,,,
+Type: Event,Blackmail: I know what you did!,,,,,,,Acquire +1 Gold from another courtier,,,,,,,
+Type: Event,The Arch Bishop seeks your council on a Witch Trial.,Burn Her!,-2,3,,,,,Does she weigh the same as a duck?,3,-2,,,,
+Type: Event,Upheavel in the streets!,,,,,,,All courtiers must immediately reveal two Cups and swap the lids between them in full view of all courtiers.,,,,,,,
+Type: Persistent,Famine!,Place this card in the center of the table with a counter on it.,-1,,,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Renaissance!,Place this card in the center of the table with a counter on it.,,-1,,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,War!,Place this card in the center of the table with a counter on it.,,,-1,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Depression!,Place this card in the center of the table with a counter on it.,,,,-1,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Festival!,Place this card in the center of the table with a counter on it.,1,,,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Revival!,Place this card in the center of the table with a counter on it.,,1,,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Parade of Honor!,Place this card in the center of the table with a counter on it.,,,1,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Persistent,Boom!,Place this card in the center of the table with a counter on it.,,,,1,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Secret,King's Pardon,"If you wrongly accuse another courtier, you may avoid revealing your Cups. Discard.",,,,,,,,,,,,,
+Type: Secret,Sleight of Hand,"During your Deals Phase, you may steal a Secret Card from another courtier. Discard.",,,,,,,,,,,,,
+Type: Secret,Secret Stash,"At any time, you may exchange this card for the effect. Discard.",,,,,5,,,,,,,,
+Type: Secret,Tax Burden,"During any Event Phase, you may double the Gold all courtiers must pay out due to the Event. (Does not apply to Gold that player collects.) Discard.",,,,,,,,,,,,,
+Type: Secret,Populist ,"You may reveal a Cup and in full view of all courtiers, transfer up to 10 Clout from that Cup to your Plebs Cup. Discard.",,,,,,,,,,,,,
+Type: Secret,Strategist,"You may reveal a Cup and in full view of all courtiers, transfer up to 10 Clout from that Cup to your Generals Cup. Discard.",,,,,,,,,,,,,
+Type: Secret,Economist,"You may reveal a Cup and in full view of all courtiers, transfer up to 10 Clout from that Cup to your Banks Cup. Discard.",,,,,,,,,,,,,
+Type: Secret,Theist,"You may reveal a Cup and in full view of all courtiers, transfer up to 10 Clout from that Cup to your Clergy Cup. Discard.",,,,,,,,,,,,,
+Type: Secret,I Know You Are But What Am I...?,"When accused you may play this card. The King ignores the accusation.  Instead, the Prosecutor is immediately accused by the King. Discard.",,,,,,,,,,,,,
+Type: Secret,Lookey Loo,You (and only you) may see the Cups and Gold of a chosen courtier. Discard.,,,,,,,,,,,,,
+Type: Secret,Surprise Muthaaaa!,"When this card transfers ownership for any reason after first purchase, the recipient is immediately accused by the King. Discard.",,,,,,,,,,,,,
+Type: Event,"King's Little Brother: I WANT A RED RIDER BB GUN FOR FESTIVAL! 
+AND I WANT IT NOW!",You'll shoot your eye out!,,1,,,,,What's the harm?,,,1,,,
+Type: Persistent,The Inquisition sweeps the land!,Place this card in the center of the table with a counter on it.,-2,2,,,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",,,,,,,
+Type: Event,Treasurer: I believe the banks are intentionally inflating interest rates to weaken the king.,"That's non-sense, bankers don't do things like that!",,,,2,1,,"I believe you, I'll have soldiers collect some extra taxes from them.",,,1,-4,,
+Type: Event,"King's Mistress: I need a new pair of shoes. If you fund my wardrobe, I can sway them in your favor...",Tell the Banks they can trust me.,,,,3,-1,,Nah...,-1,,-1,-1,,
+Type: Event,King's Mistress: Do you love me?,"You know I do, baby.",,,,,-3,,"I don't know you, woman.",-5,3,-1,-1,,
+Type: Event,"King's Mistress: I have uncovered a juicy secret.  I'm willing to share it... for a price, of course.",Nope. Not interested.,-1,,,,,,Whisper your sweet nothings in my ear.,,,,,-2,Acquire the top card from the Secrets Deck.
+Type: Event,"King's Mistress: I am pregnant. I'm sure you are the father... 
+(If the Courtier is female, shuffle back into the Event Deck and draw a new Event.)",Nobody can know...,,,,,-5,,You can't prove it!,-3,-2,,,,
+Type: Event,King's Mistress: The people love me and they could love you too.,The Plebs don't interest me.,-2,2,,,,,"I love the Plebs, they should know it.",4,,,,-2,
+Type: Inventory,"King's Mistress: This is a token of my affection.  If you are ever in trouble with the people, this will protect you. But only once.
+(King's Mistress Token)",Thank you.,,,,,-3,"If you are accused and your Plebs Cup is empty, you may immediately reset it to 10 Clout. Discard. (Place in front of you until use.)","I don't need any favors from you, woman.",-1,1,,,,
+Type: Persistent,Treasurer: The King has awarded you a stipend for you honorable advice. *mumbles* The idiot...,It's about time!,-1,,,1,1,"For 6 turns, you gain the effect of this card BEFORE your Event Phase. (Place this in front of you with a counter on it.)",I cannot accept such a grand gift...,,,,-1,,
+Type: Event,Treasurer: Local miners have discovered a new gold mine!,"No one else need know, right?",,,,,5,,We should invest it for the King!,-1,,,3,,
+Type: Event,Treasurer: New wares are showing up on ships from distant lands and undercutting our own merchants... the King must act!,"The people deserve the best deals, my King.",1,,,-2,,,"King, impose a tariff and that should fix it.",-2,,,1,,
+Type: Event,"Treasurer: The Kingdom is nearly backrupt, we can't default on our debts.  New taxes are needed!",We can find another way.,1,,,-4,,,"Death and taxes, as they say.",-4,,,1,,
+Type: Inventory,Treasurer: Here is a bank note to cover your debts with the Banks if you ever need it.  Thanks for your help managing the King. ,This will come in handy.,,,,,,"If you are accused and your Banks Cup is empty, you may immediately reset it to 10 Clout. Discard. (Place in front of you until use.)",I'd rather some Gold up front.,,,,,3,
+Type: Event,"Treasurer: King, it's a run on the Banks.  We must bail them out!",He's right... we can't risk our investments.,-5,,,5,,,Nothing is too big to fail.,5,,,-5,,
+Type: Event,Treasurer: The King should press more coins to stimulate the economy.,I'm sure the people would agree.,3,,,-3,,,"Inflation is bad m'kay?! (Except in the King's ego, that is.)",-3,,,3,,
+Type: Persistent,Treasurer: The Clergy are demanding the crown finance their silly Crusade.,I love a good Crusade!,,1,-1,-1,,"For 6 turns, ALL courtiers are affected by this card before EACH Event Phase.",Oh my... we can't allow it!,,-5,2,2,,
+Type: Event,King's Little Brother: Hello Sir. Will you buy me a new sword?,"Get outta here, kid. Ya bother me.",,,-1,,,,"Sure, why not.",,,1,,-1,
+Type: Event,King's Little Brother: General Lee says we are going to war! You tell my bruv to let me fight the bad men!,"Six year olds can not fight battles, your little Highness.",,,1,,,,"I shall speak with your brother, the King on your behalf, young knight.",,,-1,,,
+Type: Event,King's Little Brother: I told my brother that his court is buying a gift for his birthday! He's very much looking forward to it... *hehehehe*,Why you little...,,,,,,Choose an amount of Gold (up to 5) that every courtier must contribute toward the gift.,We're not playing your little game.,,,,,,"If no gift (0 Gold) is chosen, ALL courtiers are immediately accused by the King. Everyone must reveal all Cups."
+Type: Event,King's Little Brother: My brother thinks the Generals are stealing funds from to plot against him...,"Our Generals are noble servants of the crown, little Highness.",,,3,-3,,,The King is very wise.,,,-3,3,,
+Type: Event,You are the people's voice and they wish to support your work.,The people adore me... see?,,,,,8,"Reveal your Plebs Cup to all courtiers. If more than 10 Clout, collect the Gold as tribute from the populus.",I couldn't take from the mouths I care so much for...,3,,,,,
+Type: Event,The Veterans of Holy Wars wants to erect a shrine honoring your contributions to the army.,I could never refuse such an honor.,,6,,,,"Reveal your Generals Cup to all courtiers. If more than 10 Clout, gain the respect of the Clergy.",I dare not be named hero by my own heroes...,,,2,,,
+Type: Event,The Bankers Guild nominates you economic catalyst of the year and desires to reward you with honorary membership and a small gift.,I accept on behalf of King and kingdom...,,,,,5,"Reveal your Banks Cup to all courtiers. If more than 10 Clout, collect the Gold honorarium.",I only sought to learn from the best...,,,,1,,
+Type: Event,The Clergy desire to make you a living Saint.,God. Church. Kingdom. Amirite?!,5,,,,,"Reveal your Clergy Cup to all courtiers. If more than 10 Clout, gain the worship of the people.",I'm not worthy...,,2,,,,
+Type: Event,An outbreak of cholera spreads through the population! Advise the King to...,"Turn to the church, that God may heal!",-1,4,,,,,Fund medical efforts with an emergency tax on the wealthy!,4,,,-1,,
+Type: Event,"King: I am in a gambling mood... who will gamble with me?!
+(Any courtier may participate and may wager any amount of their Gold.)","If at least one courtier plays...
+",,,,,,"Roll 2D6 for the King. All courtiers roll against the King's roll.  If a courtier wins, they may go double or nothing. (Ties go to the King... he's the King after all!)",If no courtiers play...,,,,,-2,ALL courtiers must pay Gold to the King for spoiling his fun.
+Type: Event,"King: *drunk* I know one of them is out to get me... who is it?!
+WHO IS IT?!",,,,,,,"Identify another courtier, who is immediately accused by the King.",,,,,,,
+Type: Secret,It wasn't me!,"When accused by the King, you can redirect the accusation to a chosen courtier. Discard.",,,,,,,,,,,,,
+Type: Event,King: Let's have a feast! Should we invite commoners or the aristocracy?,"The people, my Lord.",4,-2,-2,-2,,,"Only the elite appreciate your splendor, my Lord.",-6,2,2,2,,
+Type: Event,"King: *drunk, sobbing, mumbling* she...she loves me not... who has stolen her affections? who?  WHO?!",,,,,,,"If any courtier has the ""King's Mistress Token"" the King executes them!",,,,,,,
+Type: Event,"Spy Master: A little birdy told me a secret, m'Lord.",Do tell...,,,,,-1,"For -2 Gold a peek, you may peek at another SINGLE courtier's Secret Cards. You may not SHOW the cards, but what do you tell?","Shoo spy, don't bother me.",,,,,,
+Type: Event,"Spy Master: I hear whispers of events brewing in the streets, m'Lord.",Meh.,,,,,,,Oh...?,,,,,-3,"For -1 Gold a peek, you may peek at the top X Event Cards. You may not SHOW, but what do you tell?"
+Type: Event,"Spy Master: I can steer events in your direction... for a price, m'Lord.",The world is my oyster.,,,,,-10,"Look at the top 3 Event Cards and put them back in any order. You may not SHOW, but what do you tell?",That's too steep for me.,,,,,,
+Type: Event,"Spy Master: M'Lord, I could whisper of your competition...",I simply must know...,,,,,-4,You (and only you) may inspect the Cups of a chosen courtier.,I already know everything.,,,,,,
+Type: Persistent,"King: I am not to be disturbed for any reason... DND, for real. Like, totally.",Place this card in the center of the table with a counter on it.,,,,,,"For 6 turns, no one may be accused. Not by other courtiers or the King. Ignore any ""accused"" effects.",,,,,,,
+Type: Event,"King: Who has two thumbs and crown? 
+THIS GUY!",,,,,,4,Affects ALL courtiers.,,,,,,,
+Type: Persistent,"King: My dog, Buboo, says I can't behead you for funsies. I can put you in time out, though! 
+Go directly to Jail, do not pass Go, do not collect 200 Gold.",Place this in front of you with a counter on it.,-2,-2,-2,-2,,"For 3 turns, you gain the effect of this card BEFORE your Event Phase. 
+Skip your Event Phase. (You may still act in other phases.)",,,,,,,
+Type: Event,"King: I should build a grand University, where scholars can learn no matter there caste!","That is a grand idea, your Majesty! *mumble* and maybe you'll learn some grammar.",6,-8,,,,,God has already gifted his servants a King with the best words... and the best mind.,,8,,-6,,
+Type: Event,"King: You there! Tell me, from where doest come MY supreme executive power?","The Lady of the Lake, her arm clad in the purest shimmering samite held aloft Excalibur from the bosom of the water, signifying by divine providence...",-5,4,2,,,... that I... I mean YOU... you were to carry Excalibur. THAT is why you are my king.,"Listen, strange women lyin' in ponds distributin' swords is no basis for a system of government.",5,-6,,,,"Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony!"
+Type: Event,"Spy Master: History may not repeat, m'Lord, but it often rhymes... when you are the musician that is.","I know just what you mean, muahahaha.",,,,,-2,"For 1 Gold each, you may remove X cards from the Event Discard Pile and shuffle them back into the Event Deck.",I never could hold a tune.,,,,,,
+Type: Event,"Spy Master: What goes around comes around, wouldn't you say, m'Lord?!",You really like your stupid cliches don't you?,,,,,,,Like a boomeraaaaaanggggg...,,,,,-8,Search and remove a Secret from the discard pile for yourself.
+Type: Event,"Spy Master: There are known knowns, and known unknowns, and unknown unknowns.  Ya' know?",,,,,,-7,"Collect all courtier Secret Cards, shuffle them, and each courtier (starting with you) draws 1 Secret card from this deck until all the Secrets are evenly distributed.",Have you been drinking Sfeld brand Rum again?,,,,,,
+Type: Event,"Spy Master: Should I say m'Lord or MER'Lord... 
+Like a Mermaid. I mean Merman... get it?",OMG Shut UP!,,,,,,,"You came up with that really late at night after too much wine, didn't you?",,,,,,
+Type: Secret,Move Along,"During any Event Phase, you may play this card cause that Event to apply to the courtier whose turn is next. Discard.",,,,,,,,,,,,,
+Type: Secret,Reversal,Causes a reversal of turn direction.  Clockwise becomes counter clockwise or vice versa.  Discard.,,,,,,,,,,,,,
+Type: Event,"Spy Master: Let me slip a little something in their drink at the next party won't you, m'Lord?",Who even does that??!,,,,,,,Shall I call you Roof-ie-us?,,,,,-3,Assign a courtier to place 4 Clout into a Cup of your choice.
+Type: Inventory,"Spy Master: I owe you one for keeping the Queen out of my be... I mean, off my back.","Darn right you do, son.",,,,,,"Whenever a courtier acquires a Secret, you may immediately take a peek at it. (Place this in front of you until you are ready to use it.)",,,,,,,
+Type: Event,"Treasurer: There is a revenue surplus this year, King.",We should reduce taxes on the people to stimulate economic growth.,2,,,2,,,Let's invest the surplus into our national institutions! New garrisons and the grandest cathedral!,,2,2,,,
+Type: Event,"King, a fire has broken out in the inner city.
+",We should save the garrison!,,-2,3,,,Save the vestibule!,,,3,-2,,,
+Type: Event,Trash is building up in the city streets.,"It's peace time, we should use the soldiers for civil service... they won't mind... much?",,,-3,,,,Prisoners can do the clean up work.,-1,,,,,
+Type: Event,A lunatic robber is hijacking caravans and giving the money to the poor.,"Deploy the Garrison to secure the trade routes, my King!",,,-3,3,,,"The fat cats are just belly aching, it's not really harming the banks... they have insurance after all.",3,,,-3,,
+Type: Event,"General Lee: Would you like to come boar hunting, my King?","Nothing good has ever come from boar hunting, my liege.",,,-1,,,,"What could go wrong, sire?",,,,,,"Roll a D6.  On 5+ the King is gored.
+Draw a new King's Psyche card, it remains secret until revealed as normal.
+(If not playing with Psyche cards, discard and draw a new event.)"
+Type: Event,"The King is dead, long live the King!",,,,,,,"Draw a new King's Psyche card, it remains secret until revealed as normal.
+(If not playing with Psyche cards, discard and draw a new event.)",,,,,,,
+Type: Event,Tag: You're it!,,,,,,,Assign the next turn to another courtier. Your turn is over (no additional actions of phases).,,,,,,,
+Type: Persistent,"Bishop: My King, this courtier is proclaiming himself the Savior Reborn!",Wut?! That's proposterous!,-1,,1,,,"For 6 turns, you gain the effect of this card BEFORE your Event Phase. (Place this in front of you with a counter on it.)",The poor and downtrodden have nothing to fear from me.,1,-1,,,,"For 6 turns, you gain the effect of this card BEFORE your Event Phase. (Place this in front of you with a counter on it.)"
+Type: Inventory,King: I dreamt that emaciated pigs devoured a star... what does it mean?,"Sire, I believe it is a warning from the Heavens that Famine is coming.",,,,,15,"If the next Persistent Event is...
+- ""Famine!"", gain the Effect.
+- Anything else, you are immediately ""Accused by the King""
+(Place this in front of you until a Persistent Event is drawn.)","Dreams don't mean anything, my King.",-2,-2,,,,
+Type: Inventory,"Witch: Coin in mud, dark and blood, days by days, 'fore flowers bud.","Oh, shove off you old hag.",,2,,2,,,"King, the treasury is at risk!",,,,,15,"If the next Persistent Event is...
+- ""Depression!"", gain the Effect.
+- Anything else, you are immediately ""Accused by the King""
+(Place this in front of you until a Persistent Event is drawn.)"
+Type: Inventory,"King: I dreamt of swords raining from the sky, piercing castle walls... could it be?","Majesty, bolster the garrison! War is coming to our doorstep!",,,,,15,"If the next Persistent Event is...
+- ""War!"", gain the Effect.
+- Anything else, you are immediately ""Accused by the King""
+(Place this in front of you until a Persistent Event is drawn.)","It's nothing to be concerned with, in my opinion.",,,-4,,,
+Type: Inventory,"Witch: Beware you men of bright cloth and dull wits. Challenge and trial, spit and bile.",Can someone shut her up? Please?,,4,,,,,"King, a wave of new thinking and world views cometh.",,,,,15,"If the next Persistent Event is...
+- ""Renaissance!"", gain the Effect.
+- Anything else, you are immediately ""Accused by the King""
+(Place this in front of you until a Persistent Event is drawn.)"
+Type: Event,General Lee: The commoners are spitting on the King's men and mocking your name. We must make an example of them!,"Truly, sire, a beheading or two would get the point across.",-3,,2,,,,"It would not due to torture and kill your own people, my liege.",4,,-1,,,
+Type: Event,"Bishop: Merchants are competing with goods sold by the faith. Put an end to it, King!","Oh come on! You cry babies.
+Competition is good for kingdom prosperity.",,-4,,2,,,"No one should be permited to impose on the offerings of the noble church... Right, my King?",,2,,-4,,
+Type: Event,A fire has erupted in the castle!,Send the brigade to save the abby!,,3,-1,-3,,,We must protect the treasury!,,-3,-1,3,,
+Type: Event,"Hoodwinked: Hey, what's that over there?!",,,,,,,Swap the 1 pair of Cup lids of another courtiers.,,,,,,,
+Type: Event,Left Holdin' the Bag: Oh... I can't take all the credit.,,,,,,,Swap one of your Cups with the same Cup of another courtier.,,,,,,,
+Type: Event,Sabotage: Kaboom!,,,,,,,You may destroy an Inventory card of another courtier.,,,,,,,
+Type: Event,"Expert: My King, you shouldn't rely on me when the resident expert is right here...",,,,,,,"Draw another Event card. After reading it, assign the resolution of that event to another courtier.  After resolution, play/turns resumes as normal from you.",,,,,,,
+Type: Inventory,Coercion: You'll do what I say if you know what's good for you.,,,,,,,"During another courtier's Event Phase, you may play this card and chose their option for them. (Place this in front of you until you are ready to use it.)",,,,,,,
+,"
+",,,,,,,,,,,,,,
